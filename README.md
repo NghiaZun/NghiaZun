@@ -37,7 +37,7 @@
 ---
 
 ## 🔥 GitHub Stats:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NghiaZun&theme=dark)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NghiaZun&theme=dark&cache_seconds=1800)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NghiaZun&layout=compact&theme=dark)  
 
 ---
