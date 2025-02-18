@@ -32,9 +32,8 @@ jobs:
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
           github_token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Create output branch if it does not exist
-        run: |
-          git fetch origin output || git checkout --orphan output
+      - name: Check if dist directory exists
+        run: ls -la dist/
 
       - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v3
