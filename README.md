@@ -3,6 +3,7 @@
 🛜 Currently building **EduChain AI** – a Web3-based educational platform  
 🎓 Studying **Information Technology (Computer Science)** at **University of Science - Vietnam National University in Ho Chi Minh City**  
 🏆 **Finalist AIC 2024**  
+🏆 **Champion Web3 & AI Ideathon 2025**  
 📄 **Accepted paper for this system at IUKM 2025** 
 
 ---
