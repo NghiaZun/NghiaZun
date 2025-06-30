@@ -11,7 +11,7 @@
 🏆 **Finalist AIC 2024**  
 🏆 **Champion Web3 & AI Ideathon 2025**  
 📄 **Accepted paper for this system at IUKM 2025** (https://link.springer.com/chapter/10.1007/978-981-96-4606-7_29)
-
+<br>
 ![](https://komarev.com/ghpvc/?username=NghiaZun)
 ---
 
