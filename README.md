@@ -1,4 +1,7 @@
 # 👋🏼 Hello World! I'm Nghia, an AI Engineer  
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h3 align="center">A passionate AI/ML Engineering</h3>
+<!--  -->
 🧠 Passionate about AI, Machine Learning, and LLMs  
 🛜 Currently building **EduChain AI** – a Web3-based educational platform  
 🎓 Studying **Information Technology (Computer Science)** at **University of Science - Vietnam National University in Ho Chi Minh City**  
