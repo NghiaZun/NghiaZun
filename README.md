@@ -11,7 +11,7 @@
 🏆 **Finalist AIC 2024**  
 🏆 **Champion Web3 & AI Ideathon 2025**  
 📄 **Accepted paper for this system at IUKM 2025** (https://link.springer.com/chapter/10.1007/978-981-96-4606-7_29)
-
+![](https://komarev.com/ghpvc/?username=NghiaZun)
 ---
 
 ## 💻 Tech Stack:
@@ -45,6 +45,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NghiaZun/NghiaZun/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/NghiaZun/NghiaZun/output/github-snake.svg" />
 </picture>
-
-![](https://komarev.com/ghpvc/?username=NghiaZun)
 
