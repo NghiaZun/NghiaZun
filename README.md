@@ -5,8 +5,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Duong+Trung+Nghia..&hearts;++;Self-taught+AI/ML+Engineering,;Computer+Science+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
-
-<br>
 🧠 Passionate about AI, Machine Learning, and LLMs  
 🛜 Currently building **EduChain AI** – a Web3-based educational platform  
 🎓 Studying **Information Technology (Computer Science)** at **University of Science - Vietnam National University in Ho Chi Minh City**  
